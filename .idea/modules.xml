@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Asperk.iml" filepath="$PROJECT_DIR$/Asperk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsperkApk.iml" filepath="$PROJECT_DIR$/AsperkApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
