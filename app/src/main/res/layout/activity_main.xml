@@ -10,21 +10,20 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.codesiders.adrihanx.asperk.Main">
 
+    <Button
+        android:text="Saludos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="149dp"
+        android:id="@+id/BtnInicial"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="CodeSiders"
         android:id="@+id/textView"
-        android:layout_above="@+id/BtnInicial"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="85dp" />
-
-    <Button
-        android:text="Saludos"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="153dp"
-        android:id="@+id/BtnInicial"
-        android:layout_alignParentBottom="true"
-        android:layout_alignEnd="@+id/textView" />
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
